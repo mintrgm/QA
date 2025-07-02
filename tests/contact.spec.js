@@ -39,7 +39,7 @@ test.describe ('Contact test cases', () => {
       "strret1": "Address1",
       "city": "City1",
       "stateProvince": "State1",
-      "postalCode": "12345",
+      "postalCode": "123456",
       "country": "Nepal"
     };
     const contact = new TestPage(page);
